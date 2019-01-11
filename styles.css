@@ -1,0 +1,33 @@
+img .pic1{
+  float: left;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.a {
+  float: left;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.left-side-bar {
+  float: left;
+}
+
+.login {
+  text-align: right;
+}
+
+#nav {
+  float: right;
+}
+
+.SearchBar {
+  height: 30px;
+  width: 260px;
+}
